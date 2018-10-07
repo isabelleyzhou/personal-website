@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Raleway');
+
+.Company-logo{
+    width: 400px;
+    height: auto;
+    float: left;
+    margin-right: 80px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
+.Content{
+    padding: 30px;
+    margin-top: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: large;
+    margin-bottom: 0;
+    font-family: 'Montserrat', sans-serif;
+}

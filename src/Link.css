@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Raleway');
+
+.Topbar{
+    position: fixed;
+    bottom: -20px;
+    background-color: rgb(66,76,85);
+    width: 100%;
+    padding: 5px; 
+    height: 25px;
+    font-family: 'Raleway', sans-serif;
+
+    text-align: center;
+    text-indent: 2%;
+    color: #C1B8C8;
+    
+
+}
+
+a{
+    color: #C4B4D1;
+}
+
+a:hover{
+    color: #EEEE;
+}

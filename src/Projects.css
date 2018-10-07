@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Raleway');
+
+.Proj-header {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    background-color: rgb(66,76,85);
+    width: 100%;
+    padding: 5px; 
+    height: 25px;
+    font-family: 'Raleway', sans-serif;
+
+    text-align: left;
+    margin-top: 0;
+    text-indent: 2%;
+    color: #C1B8C8;
+    z-index: 2;
+}
