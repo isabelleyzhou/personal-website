@@ -1,0 +1,48 @@
+.App-logo{
+  
+    width: 1200px;
+}
+  
+.App-header {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+  
+.App-header img{
+    width: 100%;
+    height: auto;
+}
+  
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 5.0em;
+}
+  
+.centered img{
+    width: 100%;
+    height: auto;
+}
+  
+.bordered {
+    position: absolute;
+    top: 45%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+}
+  
+.bordered img{
+    width: 140%;
+    height: auto;
+    float: left;
+    animation: App-logo-spin infinite 10s linear;
+}
+  
+@keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+  
